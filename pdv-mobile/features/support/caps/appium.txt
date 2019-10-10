@@ -1,0 +1,6 @@
+[caps]
+platformName = "Android"
+deviceName = 'VirtualDevice'
+udid = '192.168.56.104:5555'
+app = "/Users/papito/Code/scool/pdv-mobile/pdv-mobile/features/support/caps/totvs.pdv.movel.apk"
+automationName = 'uiautomator2'
